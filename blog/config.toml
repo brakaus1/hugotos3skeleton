@@ -1,0 +1,19 @@
+baseurl = "THECOOLESTSITE" 
+languageCode = "en-us"
+title = "TITLE"
+DisqusShortname = "DISSHORTNAME"
+
+
+[params]
+  description = "DESC"
+  cover = "COVERIMAGE.JPG"
+  author = "YOU"
+  authorlocation = "WHEREYOUARE" 
+  bio= "ABOUTYOU"
+  logo = "/IMAGES/IMAGE.JPG"
+  googleAnalyticsUserID = "YOURGANALYTICSID"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = "http://feeds.feedburner.com/..." 
+  githubName = "GHNAME" 
+  twitterName = "TWEETER"
+
