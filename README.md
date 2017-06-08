@@ -1,2 +1,3 @@
-# My project's README
+Corresponding blog post here http://blog.victorbrakauskas.com/post/blogstructure/
+
 
